@@ -1,14 +1,5 @@
 # prototype-thefreshmarket
 AXURE RP 9 - High fidelity prototype + interactive Wireframe
 
-EFFECTS:
-carousel
-menu dropdown/flyout
-menu sticky
-hover buttons
-
-TOOLS:
-hostspot
-dynamic panels
-interactive styles
-inline frame
+EFFECTS: Carousel, menu dropdown, menu sticky, hover buttons.
+TOOLS: Hostspot, Dynamic panels, Interactive styles, Inline frame.
