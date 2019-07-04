@@ -3,8 +3,11 @@ slider/carousel
 menu dropdown/flyout
 menu sticky
 hover buttons
+panel dropdown
+search system
 
 TOOLS:
+condicionals
 hostspot
 dynamic panels
 interactive styles
