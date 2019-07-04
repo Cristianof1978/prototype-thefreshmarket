@@ -1,5 +1,5 @@
 EFFECTS:
-carousel
+slider/carousel
 menu dropdown/flyout
 menu sticky
 hover buttons
@@ -9,3 +9,5 @@ hostspot
 dynamic panels
 interactive styles
 inline frame
+	Youtube video
+	Google maps
