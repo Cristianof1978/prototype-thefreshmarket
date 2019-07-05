@@ -1,12 +1,14 @@
 EFFECTS:
 slider/carousel
-menu dropdown/flyout
+menu dropdown
 menu sticky
 hover buttons
 panel dropdown
 search system
 
+
 TOOLS:
+creation and relationship between variables
 condicionals
 hostspot
 dynamic panels
